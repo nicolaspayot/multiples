@@ -1,6 +1,6 @@
 {
   "name": "multiples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a list of integers from i1 to i2 verifying conditions about given multiple(s)",
   "main": "lib/index.js",
   "scripts": {
