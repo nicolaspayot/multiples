@@ -2,6 +2,7 @@
 Generate a list of integers from i1 to i2 verifying conditions about given multiple(s)
 
 [![npm version](https://badge.fury.io/js/multiples.svg)](https://badge.fury.io/js/multiples)
+[![Build status](https://travis-ci.org/nicolaspayot/multiples.svg)](https://travis-ci.org/nicolaspayot/multiples)
 
 ## Install
 
